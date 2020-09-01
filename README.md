@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Wojciech Kozioł</h1>
-<h3 align="left">Junior Frontend Developer from Cracow</h3>
+<h1 align="left" style="margin-bottom: 0px;">Hi 👋, I'm Wojciech Kozioł</h1>
+<h3 align="left" style="margin-top: 0px; margin-bottom: 30px;">Junior Frontend Developer from Cracow</h3>
 
 - 🔭 I’m currently working on **Capra-Cutie**
 
