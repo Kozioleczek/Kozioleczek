@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@capraweb.pl**
 
-<h3 align="left" style="margin-top: 0px; margin-bottom: 30px;">☑️ If you are checking my project take, a look at those mentioned belowe. I'm truly proude of them.</h3>
+<h3 align="left" style="margin-top: 0px; margin-bottom: 30px;">☑️ If you are checking my projects take, a look at those mentioned below. I'm truly proud of them.</h3>
 
 - 🔗 https://github.com/Kozioleczek/capra-cutie URL Shrinker made with Vue, Vuex and Laravel
 - ☀️ https://github.com/Kozioleczek/capra-always-sun Weather App made with Vue and Vuex
