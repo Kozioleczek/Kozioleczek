@@ -2,5 +2,5 @@
 <h3 align="left" style="margin-top: 0px; margin-bottom: 30px;">VueJS Frontend Developer from Cracow</h3>
 
 If you check out my projects take a look at these below
-- 🔗 https://github.com/Kozioleczek/capra-exchange Currency Comparator [LIVE](http://just-exchange.surge.sh/)
-- 🔗 https://github.com/Kozioleczek/capra-cutie URL Shrinker [LIVE](http://cut.capra.website/)
+- 🔗  https://github.com/Kozioleczek/capra-exchange Currency Comparator [[LIVE](http://just-exchange.surge.sh/)]
+- 🔗  https://github.com/Kozioleczek/capra-cutie URL Shrinker [[LIVE](http://cut.capra.website/)]
